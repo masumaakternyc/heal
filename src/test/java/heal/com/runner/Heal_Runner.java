@@ -11,7 +11,6 @@ public class Heal_Runner {
 	
 	public class RunCucumberTest extends AbstractTestNGCucumberTests{
 	
-	
 	}
 
 	}

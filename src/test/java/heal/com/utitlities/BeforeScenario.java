@@ -10,6 +10,7 @@ public class BeforeScenario {
 	public void beforeChromeScenario(Scenario Bf_scenario)
 	{
 		System.out.println(" CHROME DRIVER INITIALIZATION ");
+		System.out.println("Just testing git");
 			try
 			{
 				DriverSetup.setupChromeDriver();
